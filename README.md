@@ -19,7 +19,10 @@ Configure the following options:
 ```sh
 HUBOT_SLACK_TOKEN=1234567890abcdefg
 HUBOT_SLACK_TEAM=rkhd
-HUBOT_SLACK_BOTNAME=slackbot
+HUBOT_SLACK_BOTNAME=barb
+HEROKU_URL=http://barb-the-robot.herokuapp.com/
+HUBOT_MEMEGENERATOR_USERNAME=brandonaaskov
+HUBOT_MEMEGENERATOR_PASSWORD=PasswordIsTaco
+HUBOT_SHIP_EXTRA_SQUIRRELS=true
+KARMA_ALLOW_SELF=true
 ```
-
-Enter the URL to your running Hubot instance below. There are more instructions on the [Slack adapter page](https://github.com/tinyspeck/hubot-slack).
