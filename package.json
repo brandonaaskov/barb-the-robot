@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "hubot": ">= 2.6.0 < 3.0.0",
-    "hubot-scripts": ">= 2.5.0 < 3.0.0",
+    "hubot-scripts": "*",
     "hubot-slack": "~2.1.0",
     "request": "~2.34.0",
     "cheerio": "~0.16.0",
