@@ -18,7 +18,7 @@ Configure the following options:
 
 ```sh
 HUBOT_SLACK_TOKEN=1234567890abcdefg
-HUBOT_SLACK_TEAM=fullscreen
+HUBOT_SLACK_TEAM=rkhd
 HUBOT_SLACK_BOTNAME=slackbot
 ```
 
